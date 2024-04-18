@@ -50,3 +50,22 @@ Si quieres contribuir a este proyecto, sigue estos pasos:
 Estructura del Proyecto
 
 Descripción de la estructura de archivos y carpetas del proyecto.
+
+.
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   ├── App.tsx
+│   ├── index.tsx
+├── .gitignore
+├── package.json
+└── README.md
+
+Dependencias
+
+Lista de las principales dependencias del proyecto y su función.
+
+    React: Biblioteca de JavaScript para construir interfaces de usuario.
+    React Router: Enrutador para aplicaciones React.
+    TypeScript: Un superconjunto tipado de JavaScript.
