@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://reactjs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200" alt="React Logo"><img src="https://www.typescriptlang.org/images/branding/two-colors.svg" width="200" alt="TypeScript Logo"></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200" alt="React Logo"></a>
   <h1>Nombre del Proyecto</h1>
   <p>Descripción corta del proyecto y su propósito.</p>
 </div>
