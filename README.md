@@ -5,19 +5,6 @@
 </div>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/dt/react" alt="Descargas Totales de NPM"></a>
-  <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/v/react" alt="Última Versión Estable"></a>
-  <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/l/react" alt="Licencia"></a>
-</p>
-
-
-<div align="center">
-  <img src="https://www.typescriptlang.org/images/branding/two-colors.svg" width="200" alt="TypeScript Logo">
-  <h1>Nombre del Proyecto</h1>
-  <p>Descripción corta del proyecto y su propósito.</p>
-</div>
-
-<p align="center">
   <a href="https://github.com/tu_usuario/nombre_del_repositorio/actions"><img src="https://github.com/tu_usuario/nombre_del_repositorio/workflows/tests/badge.svg" alt="Estado de la Construcción"></a>
   <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/dt/react" alt="Descargas Totales de NPM"></a>
   <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/v/react" alt="Última Versión Estable"></a>
