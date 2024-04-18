@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="typescript-logo.png" width="200" alt="TypeScript Logo">
+  <img src="https://www.typescriptlang.org/images/branding/two-colors.svg" width="200" alt="TypeScript Logo">
   <h1>Nombre del Proyecto</h1>
   <p>Descripción corta del proyecto y su propósito.</p>
 </div>
@@ -24,3 +24,10 @@
   <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/v/react" alt="Última Versión Estable"></a>
   <a href="https://www.npmjs.com/package/react"><img src="https://img.shields.io/npm/l/react" alt="Licencia"></a>
 </p>
+
+## Instalación
+
+Para empezar, clona este repositorio en tu máquina local:
+
+```bash
+git clone https://github.com/tu_usuario/nombre_del_repositorio.git
